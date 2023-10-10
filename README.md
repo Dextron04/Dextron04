@@ -39,12 +39,3 @@
   </a>
 </div>
 
-###
-
-<img align="right" height="143" src="https://media.giphy.com/media/G96GQDKnFv6py/giphy.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Dextron04/Dextron04/output/snake.svg" alt="Snake animation" />
-
-###
