@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tushin Kulshreshtha (aka Dextron) and I'm the software Engineer 🤖⚡️, originally from India 🇮🇳 but studying in The United States 🇺🇸.</h2>
+<h2 align="left">Hi 👋! My name is Tushin Kulshreshtha (aka Dextron) and I'm a software Engineer 🤖⚡️, originally from India 🇮🇳 but studying in The United States 🇺🇸.</h2>
 
 ###
 
